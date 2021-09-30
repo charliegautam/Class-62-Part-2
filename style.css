@@ -1,0 +1,23 @@
+body
+{
+    text-align: center;
+}
+
+#app {
+    background: linear-gradient(#00eeff 0%,#8400ff 100%);
+}
+
+#myCarousel
+{
+    background: linear-gradient(#07f227 0%,#0831ff 100%);
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-top: 15px;
+    color: rgb(8, 236, 187);
+    font-size: 20px;
+}
+
